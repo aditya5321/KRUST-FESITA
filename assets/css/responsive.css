@@ -53,8 +53,8 @@
   }
   .main-banner {
     height: 100vh;
-    padding-top: 130px;
-    padding-bottom: 165px;
+    padding-top: 170px;
+    padding-bottom: 125px;
     background-size: cover;
     background-position: center;
   }
@@ -94,6 +94,7 @@
     text-align: center;
   }
   .event-countdown {
+  margin-top: 25px
     right: 0;
     left: 0;
     margin: 30px auto 0 15px;
