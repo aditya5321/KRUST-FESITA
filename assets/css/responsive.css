@@ -96,8 +96,9 @@
   }
   .event-countdown {
   margin-top: 25px
-    right: 0;
+    right: 20%;
     left: 0;
+    bottom: 140px;
     margin: 30px auto 0 15px;
     text-align: right;
   }
